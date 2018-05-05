@@ -2,7 +2,7 @@
 
 **PyTorch Taiwan 主要是為了討論深度學習的理論而成立，選用的框架為 **[**PyTorch**](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html )** 。為便於不同地區當面討論，所以又成立了 PyTorch Taipei , PyTorch Hsinchu 與 PyTorch Taichung 三個子社團，以**[**經典論文研討**](http://hemingwang.blogspot.tw/2016/12/ai_20.html)**為主，PyTorch 實作為輔。**
 
- 
+=====
 
 時間：每週日下午**兩點到五點**。
 
