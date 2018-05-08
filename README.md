@@ -38,3 +38,5 @@
 
 [LeNet](http://hemingwang.blogspot.tw/2017/04/lenet.html ) 實作，在 [PyTorch Taiwan（目錄）](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html)的最上方。
 
+[FCN](http://hemingwang.blogspot.tw/2018/02/deep-learningfcn.html)
+
