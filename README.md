@@ -8,9 +8,33 @@
 
 地點：台中，**中興大學**，精密所106室一樓階梯教室（約可容納40人）。
 
-第一小時為深度學習[經典論文](http://hemingwang.blogspot.tw/2018/01/pytorchseminar.html)報告。
+### 議程表：
 
-第二小時為 Python 實作 [LeNet](http://hemingwang.blogspot.tw/2017/04/lenet.html ) 或 PyTorch 實作，在 [PyTorch Taiwan（目錄）](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html)的最上方。
+| 次序 | 暫定日期 | PAPER 主軸 | PAPER 講者 |
+| :--- | :--- | :--- | :--- |
+| Fundamental |  |  |  |
+| 1 | 5/6 | Introduction to ML | 杜岳華 |
+| 母親節~~ |  |  |  |
+| 2 | 5/20 | 議題討論 | 杜岳華 |
+| 3 | 5/20 | CNN（LeNet）+ BP | Mora Chen |
+| 4 | 5/27 | LeNet 實作 | 陳龍星 |
+| 5 |  | RNN（LSTM） | 陳龍星 |
+| CNN |  |  |  |
+| 6 |  | AlexNet | Cipher Ning |
+| 7 |  | ZFNet | 安娜 |
+| 8 |  | NIN | Anna Lee |
+| 9 |  | GoogLeNet | 廖健傑 |
+| 10 |  | VGGNet | 張逸勝 |
+| 11 |  | FCN |  |
+| R-CNN |  |  |  |
+| 12 |  | YOLO v1 | 安娜 |
+| 13 |  | SSD | 陳龍星 |
+| 14 |  | YOLO v2 | Cipher Ning |
+| 15 |  | YOLO v3 | Mora Chen |
 
-第三小時為自由討論。
+### Reference：
+
+深度學習[經典論文](http://hemingwang.blogspot.tw/2018/01/pytorchseminar.html)報告。
+
+[LeNet](http://hemingwang.blogspot.tw/2017/04/lenet.html ) 實作，在 [PyTorch Taiwan（目錄）](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html)的最上方。
 
