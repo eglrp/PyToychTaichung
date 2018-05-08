@@ -10,7 +10,7 @@
 
 ### 議程表：
 
-| 次序 | 暫定日期 | PAPER 主軸 | PAPER 講者 |
+| **次序** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
 | ---: | :--- | ---: | :--- |
 | Fundamental |  |  |  |
 | 1 | 5/6 | Introduction to ML | 杜岳華 |
