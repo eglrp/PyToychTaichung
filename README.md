@@ -39,9 +39,9 @@
 ### Reference：
 
 * 深度學習[經典論文](http://hemingwang.blogspot.tw/2018/01/pytorchseminar.html)報告。
-* [PyTorch Taipei。](https://mattwang44.github.io/en/notes/PyTorchTP/#3-進度表與連結整理)
+* [PyTorch Taipei](https://mattwang44.github.io/en/notes/PyTorchTP/#3-進度表與連結整理)。
 * [LeNet](http://hemingwang.blogspot.tw/2017/04/lenet.html ) 實作，在 [PyTorch Taiwan（目錄）](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html)的最上方。
-* [FCN](http://hemingwang.blogspot.tw/2018/02/deep-learningfcn.html)
+* [FCN](http://hemingwang.blogspot.tw/2018/02/deep-learningfcn.html)。
 
 
 
