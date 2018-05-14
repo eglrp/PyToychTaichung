@@ -10,4 +10,4 @@
   * [106. Deep Learning](/1/106.md)
   * [107. Data Science and Open Data 重要性](/1/107.md)
   * [108. Q & A](/1/108.md)
-* [2. LeNet and Back Propagation](/200.md)
+* [2. LeNet and Back Propagation](/2/200.md)
