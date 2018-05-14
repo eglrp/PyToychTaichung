@@ -1,4 +1,4 @@
-# ![](/assets/pytorch.png)PyTorch Taichung Meet-Up
+# ![](/assets/pytorch.png)PyTorch Taichung Meetup
 
 **PyTorch Taiwan 主要是為了討論深度學習的理論而成立，選用的框架為 **[**PyTorch**](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html )** 。為便於不同地區當面討論，所以又成立了 PyTorch Taipei , PyTorch Hsinchu 與 PyTorch Taichung 三個子社團，以**[**經典論文研討**](http://hemingwang.blogspot.tw/2016/12/ai_20.html)**為主，PyTorch 實作為輔。**
 
@@ -35,7 +35,7 @@
 ### Reference：
 
 * 深度學習[經典論文](http://hemingwang.blogspot.tw/2018/01/pytorchseminar.html)報告。
-* [PyTorch Taipei。](https://mattwang44.github.io/en/notes/PyTorchTP/#3-%E9%80%B2%E5%BA%A6%E8%A1%A8%E8%88%87%E9%80%A3%E7%B5%90%E6%95%B4%E7%90%86)
+* [PyTorch Taipei。](https://mattwang44.github.io/en/notes/PyTorchTP/#3-進度表與連結整理)
 * [LeNet](http://hemingwang.blogspot.tw/2017/04/lenet.html ) 實作，在 [PyTorch Taiwan（目錄）](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html)的最上方。
 * [FCN](http://hemingwang.blogspot.tw/2018/02/deep-learningfcn.html)
 
