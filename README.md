@@ -8,8 +8,8 @@
 
 地點：
 
-1. 台中，[**中興大學**](https://www.google.com.tw/maps/place/%E5%9C%8B%E7%AB%8B%E4%B8%AD%E8%88%88%E5%A4%A7%E5%AD%B8%E7%B2%BE%E5%AF%86%E6%89%80/@24.1212087,120.6741687,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfd5ec365e1:0x3044f620eb0c4d71!8m2!3d24.1212038!4d120.6763574?hl=zh-TW&authuser=0)，精密所106室一樓階梯教室（約可容納40人）。
-2. 台中，[**夢森林**](https://www.google.com.tw/maps/place/407%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80%E5%B8%82%E6%94%BF%E8%B7%AF402%E8%99%9F7/@24.1592686,120.637529,17z/data=!3m1!4b1!4m5!3m4!1s0x34693dedad1dc1e9:0xf2c440c75d475628!8m2!3d24.1592637!4d120.6397177?hl=zh-TW&authuser=0)，
+1. 台中，[**中興大學**](https://www.google.com.tw/maps/place/國立中興大學精密所/@24.1212087,120.6741687,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfd5ec365e1:0x3044f620eb0c4d71!8m2!3d24.1212038!4d120.6763574?hl=zh-TW&authuser=0)，精密所106室一樓階梯教室（約可容納40人）。
+2. 台中，[**夢森林**](https://www.google.com.tw/maps/place/407台中市西屯區市政路402號7/@24.1592686,120.637529,17z/data=!3m1!4b1!4m5!3m4!1s0x34693dedad1dc1e9:0xf2c440c75d475628!8m2!3d24.1592637!4d120.6397177?hl=zh-TW&authuser=0)，台中市西屯區市政路402號7樓。
 
 ### 議程表：
 
