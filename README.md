@@ -1,4 +1,5 @@
 ![](/assets/pytorch.png)
+
 # PyTorch Taichung Meetup
 
 **PyTorch Taiwan 主要是為了討論深度學習的理論而成立，選用的框架為 **[**PyTorch**](http://hemingwang.blogspot.tw/2017/11/pytorch-taiwan.html )** 。為便於不同地區當面討論，所以又成立了 PyTorch Taipei , PyTorch Hsinchu 與 PyTorch Taichung 三個子社團，以**[**經典論文研討**](http://hemingwang.blogspot.tw/2016/12/ai_20.html)**為主，PyTorch 實作為輔。**
@@ -22,19 +23,23 @@
 | 2 | 5/20 | 議題討論 | 杜岳華 |
 | 3 | 5/20 | CNN（LeNet）+ BP | Mora Chen |
 | 4 | 5/27 | LeNet 實作 | 陳龍星 |
-| 5 |  | RNN（LSTM） | 陳龍星 |
+| 5 |  |  |  |
+| 6 |  |  |  |
+| 7 |  | RNN（LSTM） | 陳龍星 |
 | CNN |  |  |  |
-| 6 |  | AlexNet | Cipher Ning |
-| 7 |  | ZFNet | 安娜 |
-| 8 |  | NIN | Anna Lee |
-| 9 |  | GoogLeNet | 廖健傑 |
-| 10 |  | VGGNet | 張逸勝 |
-| 11 |  | FCN |  |
+| 8 |  | AlexNet | Cipher Ning |
+| 9 |  | ZFNet | 安娜 |
+| 10 |  | NIN | Anna Lee |
+| 11 |  | GoogLeNet | 廖健傑 |
+| 12 |  | VGGNet | 張逸勝 |
+| 13 |  | FCN | 杜岳華 |
+| 14 |  | SqueezeNet | Mike Wang |
+| 15 |  | PreVGGNet | 江雨 |
 | R-CNN |  |  |  |
-| 12 |  | YOLO v1 | 安娜 |
-| 13 |  | SSD | 陳龍星 |
-| 14 |  | YOLO v2 | Cipher Ning |
-| 15 |  | YOLO v3 | Mora Chen |
+| 16 |  | YOLO v1 | 安娜 |
+| 17 |  | SSD | 陳龍星 |
+| 18 |  | YOLO v2 | Cipher Ning |
+| 19 |  | YOLO v3 | Mora Chen |
 
 ### Reference：
 
