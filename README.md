@@ -23,11 +23,11 @@
 | 2 | 5/20 | 議題討論 | 杜岳華 |
 | 3 | 5/20 | CNN（LeNet）+ BP | Mora Chen |
 | 4 | 5/27 | LeNet 實作 | 陳龍星 |
-| 5 |  | Introduction to Julia Lang | 杜岳華 |
-| 6 |  | DL framework in Julia | 杜岳華 |
-| 7 |  | RNN（LSTM） | 陳龍星 |
+| 5 | 6/10 | Introduction to Julia Lang | 杜岳華 |
+| 6 | 6/24 | DL framework in Julia | 杜岳華 |
+| 7 | 7/8 | RNN（LSTM） | 陳龍星 |
 | CNN |  |  |  |
-| 8 |  | AlexNet | Cipher Ning |
+| 8 | 7/22 | AlexNet | Cipher Ning |
 | 9 |  | ZFNet | 安娜 |
 | 10 |  | NIN | Anna Lee |
 | 11 |  | GoogLeNet | 廖健傑 |
