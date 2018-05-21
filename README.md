@@ -18,7 +18,7 @@
 | **次序** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
 | ---: | :--- | ---: | :--- |
 | Fundamental |  |  |  |
-| 1 | 5/6 | Introduction to Machine learning | 杜岳華 |
+| 1 | 5/6 | Introduction to machine learning | 杜岳華 |
 | 母親節~~ |  |  |  |
 | 2 | 5/20 | 議題討論 | 杜岳華 |
 | 3 | 5/20 | CNN（LeNet）+ BP | Mora Chen |
