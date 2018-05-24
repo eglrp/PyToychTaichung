@@ -17,7 +17,6 @@
 
 | **次序** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
 | ---: | :--- | ---: | :--- |
-| Fundamental |  |  |  |
 | 1 | 5/6 | Introduction to machine learning | 杜岳華 |
 | 母親節~~ |  |  |  |
 | 2 | 5/20 | 議題討論 | 杜岳華 |
@@ -26,20 +25,22 @@
 | 7 | 6/10 | RNN（LSTM） | 陳龍星 |
 | 5 | 6/24 | Introduction to Julia Lang | 杜岳華 |
 | 6 | 7/8 | Deep learning framework in Julia | 杜岳華 |
-| CNN |  |  |  |
 | 8 | 7/22 | AlexNet | Cipher Ning |
 | 9 |  | ZFNet | 安娜 |
 | 10 |  | NIN | Anna Lee |
 | 11 |  | GoogLeNet | 廖健傑 |
 | 12 |  | VGGNet | 張逸勝 |
-| 13 |  | FCN | 杜岳華 |
-| 14 |  | SqueezeNet | Mike Wang |
-| 15 |  | PreVGGNet | 江雨 |
-| R-CNN |  |  |  |
+| 13 |  | SqueezeNet | Mike Wang |
+| 14 |  | PreVGGNet | 江雨 |
+| 15 |  | FCN | 杜岳華 |
 | 16 |  | YOLO v1 | 安娜 |
 | 17 |  | SSD | 陳龍星 |
 | 18 |  | YOLO v2 | Cipher Ning |
 | 19 |  | YOLO v3 | Mora Chen |
+|  |  | DQN | 黃祿勳 |
+|  |  | SVM and SMO | Mike Wang |
+|  |  | R-CNN |  |
+|  |  | SPPNet | 蕭博元 |
 
 ### Reference：
 
