@@ -15,14 +15,14 @@
 
 ### 議程表：
 
-| **次序** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
+| **次序(地點)** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
 | ---: | :--- | ---: | :--- |
-| 1 | 5/6 | Introduction to machine learning | 杜岳華 |
+| 1(1) | 5/6 | Introduction to machine learning | 杜岳華 |
 | 母親節~~ |  |  |  |
-| 2 | 5/20 | 議題討論 | 杜岳華 |
-| 3 | 5/20 | CNN（LeNet）+ BP | Mora Chen |
-| 4 | 5/27 | LeNet 實作 | 陳龍星 |
-| 5 | 6/ | RNN（LSTM） | 陳龍星 |
+| 2(2) | 5/20 | 議題討論 | 杜岳華 |
+| 3(2) | 5/20 | CNN（LeNet）+ BP | Mora Chen |
+| 4(2) | 5/27 | LeNet 實作 | 陳龍星 |
+| 5 |  | RNN（LSTM） | 陳龍星 |
 | 6 |  | Introduction to Julia Lang | 杜岳華 |
 | 7 |  | Deep learning framework in Julia | 杜岳華 |
 | 8 |  | AlexNet | Cipher Ning |
