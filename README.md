@@ -11,27 +11,27 @@
 地點：
 
 1. 台中，[**中興大學**](https://www.google.com.tw/maps/place/國立中興大學精密所/@24.1212087,120.6741687,17z/data=!3m1!4b1!4m5!3m4!1s0x34693cfd5ec365e1:0x3044f620eb0c4d71!8m2!3d24.1212038!4d120.6763574?hl=zh-TW&authuser=0)，精密所106室一樓階梯教室（約可容納40人）。
-2. 台中，[**夢森林**](https://www.google.com.tw/maps/place/407台中市西屯區市政路402號7/@24.1592686,120.637529,17z/data=!3m1!4b1!4m5!3m4!1s0x34693dedad1dc1e9:0xf2c440c75d475628!8m2!3d24.1592637!4d120.6397177?hl=zh-TW&authuser=0)，台中市西屯區市政路402號7樓。
+2. 台中，[**夢森林**](https://www.google.com.tw/maps/place/407台中市西屯區市政路402號7/@24.1592686,120.637529,17z/data=!3m1!4b1!4m5!3m4!1s0x34693dedad1dc1e9:0xf2c440c75d475628!8m2!3d24.1592637!4d120.6397177?hl=zh-TW&authuser=0)，台中市西屯區市政路402號7樓（約可容納50人）。
 
 ### 議程表：
 
-| **次序(地點)** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
+| **次序 (地點)** | **暫定日期** | **PAPER 主軸** | **PAPER 講者** |
 | ---: | :--- | ---: | :--- |
-| 1(1) | 5/6 | Introduction to machine learning | 杜岳華 |
+| 1 (1) | 5/6 | Introduction to machine learning | 杜岳華 |
 | 母親節~~ |  |  |  |
-| 2(2) | 5/20 | 議題討論 | 杜岳華 |
-| 3(2) | 5/20 | CNN（LeNet）+ BP | Mora Chen |
-| 4(2) | 5/27 | LeNet 實作 | 陳龍星 |
-| 5 |  | RNN（LSTM） | 陳龍星 |
-| 6 |  | Introduction to Julia Lang | 杜岳華 |
-| 7 |  | Deep learning framework in Julia | 杜岳華 |
-| 8 |  | AlexNet | Cipher Ning |
-| 9 |  | ZFNet | 安娜 |
-| 10 |  | NIN | Anna Lee |
-| 11 |  | GoogLeNet | 廖健傑 |
-| 12 |  | PreVGGNet | 江雨 |
-| 13 |  | VGGNet | 張逸勝 |
-| 14 |  | ResNet | Chih Wei Chang |
+| 2 (2) | 5/20 | 議題討論 | 杜岳華 |
+| 3 (2) | 5/20 | CNN（LeNet）+ BP | Mora Chen |
+| 4 (2) | 5/27 | LeNet 實作 | 陳龍星 |
+| 5 (1) | 6/10 | Introduction to Julia Lang | 杜岳華 |
+| 6 | 6/17 | Deep learning framework in Julia | 杜岳華 |
+| 7 | 6/24 | RNN（LSTM） | 陳龍星 |
+| 8 | 7/1 | AlexNet | Cipher Ning |
+| 9 | 7/8 | ZFNet | 安娜 |
+| 10 | 7/15 | NIN | Anna Lee |
+| 11 | 7/22 | GoogLeNet | 廖健傑 |
+| 12 | 7/29 | PreVGGNet | 江雨 |
+| 13 | 8/5 | VGGNet | 張逸勝 |
+| 14 | 8/12 | ResNet | Chih Wei Chang |
 | 15 |  | SqueezeNet | Mike Wang |
 | 16 |  | FCN | 杜岳華 |
 | 17、18 |  | SVM and SMO | Mike Wang |
