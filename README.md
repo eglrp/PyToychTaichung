@@ -34,7 +34,7 @@
 | 14 |  | PreVGGNet | 江雨 |
 | 15 |  | FCN | 杜岳華 |
 | 16 |  | YOLO v1 | 安娜 |
-| 17 |  | SSD | 陳龍星 |
+| 17 |  | SSD | 陳龍星(Temp) |
 | 18 |  | YOLO v2 | Cipher Ning |
 | 19 |  | YOLO v3 | Mora Chen |
 | 20 |  | DQN | 黃祿勳 |
