@@ -33,19 +33,19 @@
 | 13 |  | SqueezeNet | Mike Wang |
 | 14 |  | PreVGGNet | 江雨 |
 | 15 |  | FCN | 杜岳華 |
-| 16 |  | YOLO v1 | 安娜 |
-| 17 |  | SSD | 陳龍星(Temp) |
-| 18 |  | YOLO v2 | Cipher Ning |
-| 19 |  | YOLO v3 | Mora Chen |
-| 20 |  | DQN | 黃祿勳 |
-| 21 |  | SVM and SMO | Mike Wang |
-| 22 |  | SPPNet | Anna |
-| 23 |  | DPM |  |
-| 24 |  | SS |  |
-| 25 |  | R-CNN |  |
-| 26 |  | Fast R-CNN |  |
-| 27 |  | Faster R-CNN |  |
-| 28 |  | Mask R-CNN |  |
+| 16 |  | SVM and SMO | Mike Wang |
+|  |  | DPM |  |
+|  |  | SS |  |
+| 17 |  | R-CNN | Mike Wang |
+| 18 |  | SPPNet | Anna |
+|  |  | Fast R-CNN |  |
+|  |  | Faster R-CNN |  |
+| 19 |  | YOLO v1 | 安娜 |
+| 20 |  | SSD | 陳龍星(Temp) |
+| 21 |  | YOLO v2 | Cipher Ning |
+| 22 |  | YOLO v3 | Mora Chen |
+| 23 |  | DQN | 黃祿勳 |
+| 24 |  | Mask R-CNN | 蕭博元 |
 
 
 ### Reference：
