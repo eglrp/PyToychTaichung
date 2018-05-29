@@ -37,10 +37,10 @@
 | 17 |  | SSD | 陳龍星 |
 | 18 |  | YOLO v2 | Cipher Ning |
 | 19 |  | YOLO v3 | Mora Chen |
-|  |  | DQN | 黃祿勳 |
-|  |  | SVM and SMO | Mike Wang |
-|  |  | R-CNN |  |
-|  |  | SPPNet | 蕭博元 |
+| 20 |  | DQN | 黃祿勳 |
+| 21 |  | SVM and SMO | Mike Wang |
+| 22 |  | R-CNN |  |
+| 23 |  | SPPNet | 蕭博元 |
 
 ### Reference：
 
