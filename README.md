@@ -29,9 +29,9 @@
 | 9 |  | ZFNet | 安娜 |
 | 10 |  | NIN | Anna Lee |
 | 11 |  | GoogLeNet | 廖健傑 |
-| 12 |  | VGGNet | 張逸勝 |
-| 13 |  | SqueezeNet | Mike Wang |
-| 14 |  | PreVGGNet | 江雨 |
+| 12 |  | PreVGGNet | 江雨 |
+| 13 |  | VGGNet | 張逸勝 |
+| 14 |  | SqueezeNet | Mike Wang |
 | 15 |  | FCN | 杜岳華 |
 | 16、17 |  | SVM and SMO | Mike Wang |
 |  |  | DPM |  |
