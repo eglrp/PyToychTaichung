@@ -40,6 +40,8 @@
 | 20 |  | DQN | 黃祿勳 |
 | 21 |  | SVM and SMO | Mike Wang |
 | 22 |  | SPPNet | Anna |
+|  |  | DPM |  |
+|  |  | SS |  |
 | 23 |  | R-CNN |  |
 | 24 |  | Fast R-CNN |  |
 | 25 |  | Faster R-CNN |  |
