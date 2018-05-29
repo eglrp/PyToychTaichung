@@ -43,7 +43,7 @@
 | 23 |  | R-CNN |  |
 | 24 |  | Fast R-CNN |  |
 | 25 |  | Faster R-CNN |  |
-|  |  |  |  |
+| 26 |  | Mask R-CNN |  |
 
 
 ### Reference：
