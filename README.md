@@ -39,8 +39,12 @@
 | 19 |  | YOLO v3 | Mora Chen |
 | 20 |  | DQN | 黃祿勳 |
 | 21 |  | SVM and SMO | Mike Wang |
-| 22 |  | R-CNN |  |
-| 23 |  | SPPNet | 蕭博元 |
+| 22 |  | SPPNet | Anna |
+| 23 |  | R-CNN |  |
+| 24 |  | Fast R-CNN |  |
+| 25 |  | Faster R-CNN |  |
+|  |  |  |  |
+
 
 ### Reference：
 
