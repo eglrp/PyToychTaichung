@@ -22,30 +22,31 @@
 | 2 | 5/20 | 議題討論 | 杜岳華 |
 | 3 | 5/20 | CNN（LeNet）+ BP | Mora Chen |
 | 4 | 5/27 | LeNet 實作 | 陳龍星 |
-| 7 | 6/10 | RNN（LSTM） | 陳龍星 |
-| 5 | 6/24 | Introduction to Julia Lang | 杜岳華 |
-| 6 | 7/8 | Deep learning framework in Julia | 杜岳華 |
-| 8 | 7/22 | AlexNet | Cipher Ning |
+| 5 | 6/ | RNN（LSTM） | 陳龍星 |
+| 6 |  | Introduction to Julia Lang | 杜岳華 |
+| 7 |  | Deep learning framework in Julia | 杜岳華 |
+| 8 |  | AlexNet | Cipher Ning |
 | 9 |  | ZFNet | 安娜 |
 | 10 |  | NIN | Anna Lee |
 | 11 |  | GoogLeNet | 廖健傑 |
 | 12 |  | PreVGGNet | 江雨 |
 | 13 |  | VGGNet | 張逸勝 |
-| 14 |  | SqueezeNet | Mike Wang |
-| 15 |  | FCN | 杜岳華 |
-| 16、17 |  | SVM and SMO | Mike Wang |
+| 14 |  | ResNet | Chih Wei Chang |
+| 15 |  | SqueezeNet | Mike Wang |
+| 16 |  | FCN | 杜岳華 |
+| 17、18 |  | SVM and SMO | Mike Wang |
 |  |  | DPM |  |
 |  |  | SS |  |
-| 18 |  | R-CNN | Mike Wang |
-| 19 |  | SPPNet | Anna |
+| 19 |  | R-CNN | Mike Wang |
+| 20 |  | SPPNet | Anna |
 |  |  | Fast R-CNN |  |
 |  |  | Faster R-CNN |  |
-| 20 |  | YOLO v1 | 安娜 |
-| 21 |  | SSD | 陳龍星(Temp) |
-| 22 |  | YOLO v2 | Cipher Ning |
-| 23 |  | YOLO v3 | Mora Chen |
-| 24 |  | DQN | 黃祿勳 |
-| 25 |  | Mask R-CNN | 蕭博元 |
+| 21 |  | YOLO v1 | 安娜 |
+| 22 |  | SSD | 陳龍星(Temp) |
+| 23 |  | YOLO v2 | Cipher Ning |
+| 24 |  | YOLO v3 | Mora Chen |
+| 25 |  | DQN | 黃祿勳 |
+| 26 |  | Mask R-CNN | 蕭博元 |
 
 
 ### Reference：
