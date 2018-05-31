@@ -23,8 +23,8 @@
 | 3 (2) | 5/20 | CNN（LeNet）+ BP | Mora Chen |
 | 4 (2) | 5/27 | LeNet 實作 | 陳龍星 |
 | 5 (1) | 6/10 | Introduction to Julia Lang | 杜岳華 |
-| 6 | 6/17 | Deep learning framework in Julia | 杜岳華 |
-| 7 | 6/24 | RNN（LSTM） | 陳龍星 |
+| 6 | 6/17 | RNN（LSTM） | 陳龍星 |
+| 7 | 6/24 | Deep learning framework in Julia | 杜岳華 |
 | 8 | 7/1 | AlexNet | Cipher Ning |
 | 9 | 7/8 | ZFNet | 安娜 |
 | 10 | 7/15 | NIN | Anna Lee |
