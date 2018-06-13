@@ -23,9 +23,9 @@
 | 3 \(2\) | 5/20 | CNN（LeNet）+ BP | Mora Chen |
 | 4 \(2\) | 5/27 | LeNet 實作 | 陳龍星 |
 | 5 \(1\) | 6/10 | Introduction to Julia Lang | 杜岳華 |
-| 6 | 6/17 | RNN（LSTM） | 陳龍星 |
-| 7 | 6/24 | Deep learning framework in Julia | 杜岳華 |
-| 8 | 7/1 | AlexNet | Cipher Ning |
+| 6\(1\) | 6/17 | RNN（LSTM） | 陳龍星 |
+| 7\(2\) | 6/24 | Deep learning framework in Julia | 杜岳華 |
+| 8\(1\) | 7/1 | AlexNet | Cipher Ning |
 | 9 | 7/8 | ZFNet | 安娜 |
 | 10 | 7/15 | NIN | Anna Lee |
 | 11 | 7/22 | GoogLeNet | 廖健傑 |
@@ -40,13 +40,13 @@
 | 19 |  | R-CNN | Mike Wang |
 | 20 |  | SPPNet | Anna |
 |  |  | Fast R-CNN |  |
-|  |  | Faster R-CNN |  |
-| 21 |  | YOLO v1 | 安娜 |
-| 22 |  | SSD | 陳龍星\(Temp\) |
-| 23 |  | YOLO v2 | Cipher Ning |
-| 24 |  | YOLO v3 | Mora Chen |
-| 25 |  | DQN | 黃祿勳 |
-| 26 |  | Mask R-CNN | 蕭博元 |
+| 21 |  | Faster R-CNN | . |
+| 22 |  | YOLO v1 | 安娜 |
+| 23 |  | SSD | 陳龍星\(Temp\) |
+| 24 |  | YOLO v2 | Cipher Ning |
+| 25 |  | YOLO v3 | Mora Chen |
+| 26 |  | DQN | 黃祿勳 |
+| 27 |  | Mask R-CNN | 蕭博元 |
 
 ### Reference：
 
