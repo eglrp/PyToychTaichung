@@ -11,3 +11,8 @@
   * [107. Data Science and Open Data 重要性](/1/107.md)
   * [108. Q & A](/1/108.md)
 * [2. LeNet and Back Propagation](/2/200.md)
+* [3. Introduction to Julia Lang	](/3/300.md)
+  * [301. 講者提供的資訊](/3/301.md)
+
+
+
