@@ -26,12 +26,12 @@
 | 6\(1\) | 6/17 | RNN（LSTM） | 陳龍星 |
 | 7\(2\) | 6/24 | Deep learning framework in Julia | 杜岳華 |
 | 8\(1\) | 7/1 | AlexNet | Cipher Ning |
-| 9 | 7/8 | ZFNet | 安娜 |
-| 10 | 7/15 | NIN | Anna Lee |
-| 11 | 7/22 | GoogLeNet | 廖健傑 |
-| 12 | 7/29 | PreVGGNet | 江雨 |
-| 13 | 8/5 | VGGNet | 張逸勝 |
-| 14 | 8/12 | ResNet | Chih Wei Chang |
+| 9 | 7/15 | ZFNet | 安娜 |
+| 10 | 7/29 | NIN | Anna Lee |
+| 11 |  | GoogLeNet | 廖健傑 |
+| 12 |  | PreVGGNet | 江雨 |
+| 13 |  | VGGNet | 張逸勝 |
+| 14 |  | ResNet | Chih Wei Chang |
 | 15 |  | SqueezeNet | Mike Wang |
 | 16 |  | FCN | 杜岳華 |
 | 17、18 |  | SVM and SMO | Mike Wang |
