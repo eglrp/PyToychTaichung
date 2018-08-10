@@ -28,7 +28,7 @@
 | 8\(1\) | 7/1 | AlexNet | Cipher Ning |
 | 9 | 7/15 | ZFNet | 安娜 |
 | 10 | 7/29 | NIN | Anna Lee |
-| 11 |  | GoogLeNet | 廖健傑 |
+| 11 | 8/5 | GoogLeNet | 廖健傑 |
 | 12 |  | PreVGGNet | 江雨 |
 | 13 |  | VGGNet | 張逸勝 |
 | 14 |  | ResNet | Chih Wei Chang |
