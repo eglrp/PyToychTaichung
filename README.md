@@ -30,14 +30,14 @@
 | 10 | 7/29 | NIN | Anna Lee |
 | 11 | 8/5 | GoogLeNet | 廖健傑 |
 | 12 |  | PreVGGNet | 江雨 |
-| 13 |  | VGGNet | 張逸勝 |
+| 13 | 8/12 | VGGNet | 張逸勝 |
 | 14 |  | ResNet | Chih Wei Chang |
 | 15 |  | SqueezeNet | Mike Wang |
-| 16 |  | FCN | 杜岳華 |
+| 16 | 9/2 | FCN | 杜岳華 |
 | 17、18 |  | SVM and SMO | Mike Wang |
 |  |  | DPM |  |
 |  |  | SS |  |
-| 19 |  | R-CNN | Mike Wang |
+| 19 | 9/16 or 9/30 | R-CNN | . |
 | 20 |  | SPPNet | Anna |
 |  |  | Fast R-CNN |  |
 | 21 |  | Faster R-CNN | . |
