@@ -34,12 +34,12 @@
 | 14 |  | ResNet | Chih Wei Chang |
 | 15 |  | SqueezeNet | Mike Wang |
 | 16 | 9/2 | FCN | 杜岳華 |
-| 17、18 |  | SVM and SMO | Mike Wang |
+|  |  | SVM and SMO | Mike Wang |
 |  |  | DPM |  |
 |  |  | SS |  |
-|  | 10/7 | R-CNN | 李春煌 |
-|  |  |  |  |
-|  |  |  |  |
+| 17 | 10/7 | R-CNN | 李春煌 |
+| 18 | 10/14 | Marcel Wang 創業分享 | Marcel Wang |
+| 19 | 10/21 | Batch normalization 與他愉快的小伙伴 | 杜岳華 |
 | 20 |  | SPPNet | Anna |
 |  |  | Fast R-CNN |  |
 | 21 |  | Faster R-CNN | . |
