@@ -42,7 +42,7 @@
 | 19 | 10/21 | Batch normalization 與他愉快的小伙伴 | 杜岳華 |
 | 20 |  | SPPNet | Anna |
 |  |  | Fast R-CNN |  |
-| 21 |  | Faster R-CNN | . |
+| 21 |  | Faster R-CNN | 李春煌 |
 | 22 |  | YOLO v1 | 安娜 |
 | 23 |  | SSD | 陳龍星\(Temp\) |
 | 24 |  | YOLO v2 | Cipher Ning |
