@@ -37,7 +37,9 @@
 | 17、18 |  | SVM and SMO | Mike Wang |
 |  |  | DPM |  |
 |  |  | SS |  |
-| 19 | 9/16 or 9/30 | R-CNN | . |
+|  | 10/7 | R-CNN | 李春煌 |
+|  |  |  |  |
+|  |  |  |  |
 | 20 |  | SPPNet | Anna |
 |  |  | Fast R-CNN |  |
 | 21 |  | Faster R-CNN | . |
