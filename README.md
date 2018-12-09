@@ -40,15 +40,16 @@
 | 17 | 10/7 | R-CNN | 李春煌 |
 | 18 | 10/14 | Marcel Wang 創業分享 | Marcel Wang |
 | 19 | 10/21 | Batch normalization 與他愉快的小伙伴 | 杜岳華 |
-| 20 |  | SPPNet | Anna |
-|  |  | Fast R-CNN |  |
-| 21 |  | Faster R-CNN | 李春煌 |
-| 22 |  | YOLO v1 | 安娜 |
-| 23 |  | SSD | 陳龍星\(Temp\) |
-| 24 |  | YOLO v2 | Cipher Ning |
-| 25 |  | YOLO v3 | Mora Chen |
-| 26 |  | DQN | 黃祿勳 |
-| 27 |  | Mask R-CNN | 蕭博元 |
+| 20 | 11/25 | 從 VAE 走向深度學習新理論 | 杜岳華 |
+| 21 | 12/9 | SPPNet | Anna |
+| 22 | 12/23 | Fast R-CNN | 李春煌 |
+| 23 |  | Faster R-CNN | 李春煌 |
+| 24 |  | YOLO v1 | 安娜 |
+| 25 |  | SSD | 陳龍星\(Temp\) |
+| 26 |  | YOLO v2 | Cipher Ning |
+| 27 |  | YOLO v3 | Mora Chen |
+|  |  | DQN |  |
+|  |  | Mask R-CNN |  |
 
 ### Reference：
 
